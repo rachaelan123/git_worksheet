@@ -1,0 +1,25 @@
+                      iiii           tttt          
+                     i::::i       ttt:::t          
+                      iiii        t:::::t          
+                                  t:::::t          
+   ggggggggg   gggggiiiiiii ttttttt:::::ttttttt    
+  g:::::::::ggg::::gi:::::i t:::::::::::::::::t    
+ g:::::::::::::::::g i::::i t:::::::::::::::::t    
+g::::::ggggg::::::gg i::::i tttttt:::::::tttttt    
+g:::::g     g:::::g  i::::i       t:::::t          
+g:::::g     g:::::g  i::::i       t:::::t          
+g:::::g     g:::::g  i::::i       t:::::t          
+g::::::g    g:::::g  i::::i       t:::::t    tttttt
+g:::::::ggggg:::::g i::::::i      t::::::tttt:::::t
+ g::::::::::::::::g i::::::i      tt::::::::::::::t
+  gg::::::::::::::g i::::::i        tt:::::::::::tt
+    gggggggg::::::g iiiiiiii          ttttttttttt  
+            g:::::g                                
+gggggg      g:::::g                                
+g:::::gg   gg:::::g                                
+ g::::::ggg:::::::g                                
+  gg:::::::::::::g                                 
+    ggg::::::ggg                                   
+       gggggg                              
+       
+Git keeps track of multiple versions of files, tries experiments without messing up working code, serves as a backup, and allows multiple people to work on the same file. In order to make changes to a file, the white staged box needs to be checked for the file that you are working on, make any necessary changes, clicking on the commit button, writing a commit message, and save all the changes. Good commits tackle one topic or task at a time, and are frequent and descriptive.
